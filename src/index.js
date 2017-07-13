@@ -7,7 +7,7 @@ import SearchBar from './components/search_bar';
 import VideoList from './components/video_list';
 import VideoDetail from './components/video_detail';
 
-const API_KEY = 'AIzaSyCb8mpAn8pcqer8AUBSeAQIEufX8nFsz44';
+onst API_KEY = '[add api key here]';
 
 //helps you interact with DOM
 //find that library and assign it to the variable
